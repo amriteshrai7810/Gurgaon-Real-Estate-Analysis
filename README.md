@@ -2,7 +2,7 @@
 Developed a Streamlit-based Property Analysis Dashboard to streamline property searches in Gurgaon’s dynamic real estate market. Features include area-wise price trends, society recommendations, and personalized price predictions. Leveraging data from 3,000+ web-scraped listings, the dashboard reduces search time by 30%, enabling quicker, informed decisions for buyers and investors.
 
 # Video Demo on LinkedIn
-LinkedIn Link: [linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7171491581231902721/)
+LinkedIn Link: [linkedin.com](https://www.linkedin.com/feed/update/urn:li:activity:7283845944989597696/)
 
 
 
